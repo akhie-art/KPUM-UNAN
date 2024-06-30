@@ -1,0 +1,123 @@
+@media only screen and (max-width: 760px) {
+  .logo h1 {
+    font-size: 0.9rem;
+  }
+  .navBar a {
+    font-size: 0.7rem;
+    border-radius: 5px;
+    padding: 2%;
+    box-sizing: border-box;
+  }
+  .beranda {
+    padding-top: 30%;
+  }
+  .tulisan-beranda {
+    height: auto;
+    margin-bottom: 10%;
+  }
+  .tulisan-utama-beranda {
+    text-align: center;
+  }
+  .tulisan-utama-beranda h1 {
+    line-height: 55px;
+    font-size: 4rem;
+  }
+  .gambar-beranda {
+    height: 200px;
+  }
+ 
+
+  .narasi-beranda {
+    text-align: center;
+    width: 100%;
+    padding: 0 15%;
+    box-sizing: border-box;
+    /* background-color: red; */
+  }
+  .narasi-beranda p {
+    font-size: 0.7rem;
+    overflow: hidden;
+  }
+  .tbl-daftar-beranda {
+    display: flex;
+    justify-content: center;
+  }
+  .tbl-daftar-beranda button {
+    border: none;
+    width: 40%;
+    height: 70%;
+  }
+  .tbl-daftar-beranda button:hover {
+    background: linear-gradient(#262dff 10%, #352494 80%);
+  }
+  .tbl-daftar-beranda a {
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .item-daftar-lomba {
+    width: 48%;
+    height: 50%;
+    padding: 0 5%;
+  }
+  .gambar-item {
+    padding-top: 30%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .gambar-item img {
+    width: 30%;
+  }
+  .daftar-lomba {
+  }
+  .nama-lomba h1 {
+    font-size: 1rem;
+  }
+  .duta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30% 4% 4% 4%;
+    box-sizing: border-box;
+  }
+  .duta img {
+    width: 60%;
+  }
+  .kaligrafi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30%;
+    box-sizing: border-box;
+  }
+  .kaligrafi img {
+    width: 60%;
+  }
+  .hafidz {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20%;
+    box-sizing: border-box;
+  }
+  .bem img {
+    width: 40%;
+  }
+
+  .narasi-lomba p {
+    font-size: 0.5rem;
+  }
+  .tbl-daftar-item {
+    border-radius: 5px;
+  }
+  .tbl-daftar-item a {
+    font-size: 0.7rem;
+  }
+}
